@@ -7,7 +7,7 @@ To find the relevant material please follow links below
 
 # Repository list
 
-* [Introduction to the Bioinformatics Team.](http://mrccsc.github.io/Team_2016.html)
+* [Introduction to the Bioinformatics Team.](http://mrccsc.github.io/bioinformatics2017/)
 * [R Session 1 and session 2.](http://mrccsc.github.io/Reproducible-R/)
 * [Bioconductor.](http://mrccsc.github.io/Bioconductor/)
 * [RNA-seq.](http://mrccsc.github.io/RNAseq_short/)
